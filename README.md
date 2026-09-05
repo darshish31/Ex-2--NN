@@ -1,6 +1,6 @@
-<H3>Name: Madhumitha R</H3>
-<H3>Register no: 212224240082</H3>
-<H3>Date:31-07-2026</H3>
+<H3>Name: DARSHINI B </H3>
+<H3>Register no: 212224230051</H3>
+<H3>Date:02-08-2026</H3>
 <H3>Experiment No. 2 </H3>
 ## Implementation of Perceptron for Binary Classification
 # AIM:
